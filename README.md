@@ -8,7 +8,7 @@ sell your catch, and restore an overgrown pond into a garden. No timers, no fail
 1. Open `Ripplewood.xcodeproj` in **Xcode 16 or newer** (the project uses folder-synchronized
    groups, so any file you add under `Ripplewood/` is picked up automatically).
 2. Pick an iPhone simulator and press **Run**. To run on a device, choose your team under
-   *Signing & Capabilities* (and change the bundle id `com.ripplewood.game` if needed).
+   *Signing & Capabilities* (and change the bundle id `cc.tstech.ripplewood` if needed).
 
 Requirements: iOS 17+, portrait iPhone only, no third-party dependencies.
 
